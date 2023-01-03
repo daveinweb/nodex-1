@@ -1,0 +1,17 @@
+{
+  "name": "openbootcamp",
+  "version": "1.0.0",
+  "description": "Curso de javascript básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hola": "Hola! este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo."
+  },
+  "keywords": [
+    "curso",
+    "basico",
+    "js"
+  ],
+  "author": "dave_bin",
+  "license": "ISC"
+}
